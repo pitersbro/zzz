@@ -463,6 +463,21 @@ class Transformer:
         self._data[col].fillna(fill_value, inplace=True)
         return self
 
+    def prune_outliers(self, col: str):
+        if col not in self._data.columns:
+            raise ValueError(f"Column '{col}' does not exist in the data.")
+        if not pd.api.types.is_numeric_dtype(self._data[col]):
+            raise ValueError(f"Column '{col}' must be numerical to prune outliers.")
+        Q1 = self._data[col].quantile(0.25)
+        Q3 = self._data[col].quantile(0.75)
+        IQR = Q3 - Q1
+        lower_bound = Q1 - 1.5 * IQR
+        upper_bound = Q3 + 1.5 * IQR
+        self._data = self._data[
+            (self._data[col] >= lower_bound) & (self._data[col] <= upper_bound)
+        ]
+        return self
+
     def price_to_log(self):
         if "price" in self._data.columns:
             self._data["log_price"] = np.log1p(self._data["price"])
