@@ -468,6 +468,16 @@ class Transformer:
             self._data["log_price"] = np.log1p(self._data["price"])
         return self
 
+    def apply_log_transform(self, col: str):
+        if col not in self._data.columns:
+            raise ValueError(f"Column '{col}' does not exist in the data.")
+        if not pd.api.types.is_numeric_dtype(self._data[col]):
+            raise ValueError(
+                f"Column '{col}' must be numerical to apply log transform."
+            )
+        self._data["log_" + col] = np.log1p(self._data[col])
+        return self
+
 
 class Nashville:
     raw = DataView(load_data("nashville.csv"))
