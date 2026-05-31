@@ -1,0 +1,301 @@
+id,country,city,gender,age,salary,position,favorite_book
+9,FRANCE,Paris,Female,38,3458,HR_officer,Lord of the flies
+10,FRANCE,Paris,Male,32,4163,Junior_programmer,Lord of the rings
+20,FRANCE,Paris,Male,25,1394,Apprentice,Lord of the rings
+25,FRANCE,Paris,Male,25,604,Apprentice,The catcher in the rye
+30,FRANCE,Paris,Male,25,713,Apprentice,Lord of the rings
+35,FRANCE,Paris,Male,25,874,Apprentice,Lord of the flies
+40,FRANCE,Paris,Male,25,1278,Apprentice,The catcher in the rye
+45,FRANCE,Paris,Male,25,1398,Apprentice,The catcher in the rye
+50,FRANCE,Paris,Male,25,773,Apprentice,Lord of the flies
+55,FRANCE,Paris,Male,25,1066,Apprentice,Lord of the rings
+60,FRANCE,Paris,Male,25,1125,Apprentice,Lord of the flies
+65,FRANCE,Paris,Male,25,1168,Apprentice,The catcher in the rye
+70,FRANCE,Paris,Male,25,972,Apprentice,Lord of the rings
+75,FRANCE,Paris,Male,25,1746,Apprentice,Lord of the flies
+80,FRANCE,Paris,Male,25,1329,Apprentice,Lord of the rings
+85,FRANCE,Paris,Male,25,853,Apprentice,Lord of the flies
+90,FRANCE,Paris,Male,25,1407,Apprentice,The catcher in the rye
+105,FRANCE,Paris,Female,38,3488,HR_officer,Lord of the rings
+106,FRANCE,Paris,Female,38,4673,HR_officer,Lord of the rings
+107,FRANCE,Lyon,Female,38,5411,HR_officer,Lord of the rings
+108,FRANCE,Lyon,Female,38,4586,HR_officer,Lord of the flies
+109,FRANCE,Lyon,Female,38,4572,HR_officer,The catcher in the rye
+110,FRANCE,Lyon,Female,38,3201,HR_officer,The catcher in the rye
+111,FRANCE,Lyon,Female,38,3195,HR_officer,Lord of the flies
+112,FRANCE,Lyon,Female,38,3461,HR_officer,Lord of the rings
+113,FRANCE,Lyon,Female,38,3540,HR_officer,Lord of the rings
+114,FRANCE,Lyon,Female,38,3071,HR_officer,The catcher in the rye
+115,FRANCE,Lyon,Female,38,5447,HR_officer,The catcher in the rye
+116,FRANCE,Lyon,Female,38,5204,HR_officer,Lord of the rings
+117,FRANCE,Lyon,Female,38,3407,HR_officer,Lord of the flies
+118,FRANCE,Lyon,Female,38,3550,HR_officer,Lord of the flies
+121,FRANCE,Lyon,Male,32,3166,Junior_programmer,The catcher in the rye
+127,FRANCE,Lyon,Male,32,4392,Junior_programmer,The catcher in the rye
+133,FRANCE,Lyon,Male,32,4392,Junior_programmer,The catcher in the rye
+139,FRANCE,Lyon,Male,32,3249,Junior_programmer,Lord of the rings
+145,FRANCE,Lyon,Male,32,6589,Junior_programmer,Lord of the flies
+151,FRANCE,Lyon,Male,32,3191,Junior_programmer,Lord of the rings
+157,FRANCE,Lyon,Male,32,3817,Junior_programmer,The catcher in the rye
+163,FRANCE,Lyon,Male,32,3549,Junior_programmer,The catcher in the rye
+169,FRANCE,Marsille,Male,32,5329,Junior_programmer,Lord of the rings
+175,FRANCE,Marsille,Male,32,4425,Junior_programmer,The catcher in the rye
+181,FRANCE,Marsille,Male,32,3303,Junior_programmer,The catcher in the rye
+187,FRANCE,Marsille,Male,32,6966,Junior_programmer,The catcher in the rye
+193,FRANCE,Marsille,Male,32,5865,Junior_programmer,Lord of the flies
+199,FRANCE,Marsille,Male,32,4077,Junior_programmer,Lord of the flies
+1,GERMANY,Berlin,Male,25,846,Apprentice,Lord of the rings
+5,GERMANY,Berlin,Male,25,913,Apprentice,Lord of the rings
+8,GERMANY,Berlin,Male,38,9477,Project_Manager,Lord of the rings
+11,GERMANY,Berlin,Male,32,5551,Junior_programmer,Lord of the rings
+17,GERMANY,Berlin,Male,27,3608,Junior_programmer,The catcher in the rye
+21,GERMANY,Berlin,Male,25,1299,Apprentice,The catcher in the rye
+22,GERMANY,Berlin,Male,25,1575,Apprentice,The catcher in the rye
+26,GERMANY,Berlin,Male,25,1380,Apprentice,Lord of the rings
+27,GERMANY,Berlin,Male,25,828,Apprentice,Lord of the rings
+31,GERMANY,Berlin,Male,25,1072,Apprentice,The catcher in the rye
+32,GERMANY,Berlin,Male,25,710,Apprentice,Lord of the rings
+36,GERMANY,Bayern,Male,25,1160,Apprentice,The catcher in the rye
+37,GERMANY,Bayern,Male,25,932,Apprentice,Lord of the rings
+41,GERMANY,Bayern,Male,25,1340,Apprentice,The catcher in the rye
+42,GERMANY,Bayern,Male,25,1551,Apprentice,Lord of the rings
+46,GERMANY,Bayern,Male,25,831,Apprentice,Lord of the flies
+47,GERMANY,Bayern,Male,25,626,Apprentice,Lord of the rings
+51,GERMANY,Bayern,Male,25,911,Apprentice,Lord of the flies
+52,GERMANY,Bayern,Male,25,1586,Apprentice,Lord of the rings
+56,GERMANY,Bayern,Male,25,1767,Apprentice,The catcher in the rye
+57,GERMANY,Bayern,Male,25,1056,Apprentice,Lord of the rings
+61,GERMANY,Bayern,Male,25,630,Apprentice,Lord of the flies
+62,GERMANY,Bayern,Male,25,993,Apprentice,Lord of the flies
+66,GERMANY,Bayern,Male,25,1666,Apprentice,Lord of the rings
+67,GERMANY,Bayern,Male,25,677,Apprentice,The catcher in the rye
+71,GERMANY,Berlin,Male,25,706,Apprentice,Lord of the flies
+72,GERMANY,Berlin,Male,25,1382,Apprentice,Lord of the rings
+76,GERMANY,Berlin,Male,25,1001,Apprentice,Lord of the flies
+77,GERMANY,Berlin,Male,25,1065,Apprentice,Lord of the rings
+81,GERMANY,Berlin,Male,25,1208,Apprentice,The catcher in the rye
+82,GERMANY,Berlin,Male,25,656,Apprentice,Lord of the flies
+86,GERMANY,Berlin,Male,25,972,Apprentice,Lord of the rings
+87,GERMANY,Berlin,Male,25,1412,Apprentice,Lord of the rings
+122,GERMANY,Berlin,Male,32,6959,Junior_programmer,The catcher in the rye
+123,GERMANY,Berlin,Male,27,3650,Junior_programmer,Lord of the rings
+128,GERMANY,Berlin,Male,32,6434,Junior_programmer,Lord of the rings
+129,GERMANY,Berlin,Male,27,5020,Junior_programmer,The catcher in the rye
+134,GERMANY,Berlin,Male,32,7340,Junior_programmer,Lord of the rings
+135,GERMANY,Berlin,Male,27,6131,Junior_programmer,Lord of the rings
+140,GERMANY,Berlin,Male,32,6295,Junior_programmer,Lord of the flies
+141,GERMANY,Berlin,Male,27,3790,Junior_programmer,Lord of the rings
+146,GERMANY,Bonn,Male,32,5426,Junior_programmer,Lord of the rings
+147,GERMANY,Bonn,Male,27,7259,Junior_programmer,Lord of the flies
+152,GERMANY,Bonn,Male,32,5354,Junior_programmer,Lord of the flies
+153,GERMANY,Bonn,Male,27,4806,Junior_programmer,Lord of the rings
+158,GERMANY,Bonn,Male,32,5689,Junior_programmer,The catcher in the rye
+159,GERMANY,Bonn,Male,27,6791,Junior_programmer,Lord of the rings
+164,GERMANY,Bonn,Male,32,5954,Junior_programmer,The catcher in the rye
+165,GERMANY,Bonn,Male,27,4212,Junior_programmer,Lord of the rings
+170,GERMANY,Bonn,Male,32,5011,Junior_programmer,Lord of the flies
+171,GERMANY,Bonn,Male,27,3733,Junior_programmer,Lord of the rings
+176,GERMANY,Bonn,Male,32,7201,Junior_programmer,Lord of the flies
+177,GERMANY,Bonn,Male,27,4168,Junior_programmer,Lord of the flies
+182,GERMANY,Bonn,Male,32,3694,Junior_programmer,The catcher in the rye
+183,GERMANY,Bonn,Male,27,3713,Junior_programmer,Lord of the flies
+188,GERMANY,Bonn,Male,32,3928,Junior_programmer,The catcher in the rye
+189,GERMANY,Bonn,Male,27,5375,Junior_programmer,The catcher in the rye
+194,GERMANY,Bonn,Male,32,3593,Junior_programmer,The catcher in the rye
+195,GERMANY,Bonn,Male,27,5380,Junior_programmer,Lord of the rings
+200,GERMANY,Bonn,Male,32,4229,Junior_programmer,The catcher in the rye
+201,GERMANY,Bonn,Male,27,3681,Junior_programmer,Lord of the flies
+203,GERMANY,Bonn,Male,38,7515,Project_Manager,The catcher in the rye
+205,GERMANY,Berlin,Male,38,7215,Project_Manager,The catcher in the rye
+207,GERMANY,Berlin,Male,38,8137,Project_Manager,Lord of the flies
+209,GERMANY,Berlin,Male,38,7765,Project_Manager,Lord of the rings
+211,GERMANY,Berlin,Male,38,6172,Project_Manager,Lord of the flies
+213,GERMANY,Berlin,Male,38,6446,Project_Manager,The catcher in the rye
+215,GERMANY,Berlin,Male,38,8236,Project_Manager,Lord of the rings
+217,GERMANY,Berlin,Male,38,8586,Project_Manager,The catcher in the rye
+219,GERMANY,Berlin,Male,38,9473,Project_Manager,The catcher in the rye
+221,GERMANY,Berlin,Male,38,8649,Project_Manager,Lord of the rings
+223,GERMANY,Berlin,Male,38,6220,Project_Manager,Lord of the flies
+225,GERMANY,Berlin,Male,38,9333,Project_Manager,Lord of the flies
+227,GERMANY,Berlin,Male,38,9809,Project_Manager,The catcher in the rye
+229,GERMANY,Berlin,Male,38,9798,Project_Manager,Lord of the rings
+2,USA,New York,Female,27,3268,Junior_programmer,Lord of the rings
+3,USA,New York,Male,32,8126,Senior_programmer,The catcher in the rye
+4,USA,New York,Female,32,3802,Junior_programmer,Lord of the rings
+6,USA,New York,Male,38,10284,Senior_programmer,Lord of the flies
+7,USA,New York,Female,52,18114,CEO,Lord of the rings
+12,USA,New York,Female,25,1654,Apprentice,The catcher in the rye
+13,USA,New York,Female,42,7816,Project_Manager,Lord of the rings
+14,USA,New York,Male,38,9043,Senior_programmer,Lord of the rings
+15,USA,New York,Female,32,10006,Senior_programmer,Lord of the rings
+16,USA,New York,Male,32,8182,Senior_programmer,The catcher in the rye
+18,USA,New York,Female,32,5337,Junior_programmer,The catcher in the rye
+19,USA,New York,Female,27,1732,Apprentice,Lord of the rings
+23,USA,New York,Female,25,646,Apprentice,The catcher in the rye
+24,USA,New York,Female,27,1166,Apprentice,Lord of the rings
+28,USA,New York,Female,25,1000,Apprentice,The catcher in the rye
+29,USA,New York,Female,27,1053,Apprentice,The catcher in the rye
+33,USA,New York,Female,25,1192,Apprentice,The catcher in the rye
+34,USA,New York,Female,27,1415,Apprentice,Lord of the rings
+38,USA,New York,Female,25,1722,Apprentice,Lord of the rings
+39,USA,New York,Female,27,780,Apprentice,Lord of the rings
+43,USA,New York,Female,25,688,Apprentice,Lord of the rings
+44,USA,New York,Female,27,1433,Apprentice,Lord of the rings
+48,USA,New York,Female,25,1420,Apprentice,The catcher in the rye
+49,USA,New York,Female,27,772,Apprentice,The catcher in the rye
+53,USA,New York,Female,25,1426,Apprentice,The catcher in the rye
+54,USA,New York,Female,27,998,Apprentice,Lord of the flies
+58,USA,New York,Female,25,645,Apprentice,Lord of the rings
+59,USA,New York,Female,27,911,Apprentice,Lord of the flies
+63,USA,New York,Female,25,1092,Apprentice,Lord of the rings
+64,USA,New York,Female,27,877,Apprentice,Lord of the rings
+68,USA,New York,Female,25,888,Apprentice,Lord of the rings
+69,USA,New York,Female,27,816,Apprentice,Lord of the rings
+73,USA,New York,Female,25,1014,Apprentice,Lord of the rings
+74,USA,New York,Female,27,1434,Apprentice,The catcher in the rye
+78,USA,New York,Female,25,1305,Apprentice,Lord of the rings
+79,USA,New York,Female,27,1194,Apprentice,The catcher in the rye
+83,USA,New York,Female,25,1777,Apprentice,The catcher in the rye
+84,USA,New York,Female,27,1657,Apprentice,Lord of the flies
+88,USA,New York,Female,25,1519,Apprentice,Lord of the flies
+89,USA,New York,Female,27,1211,Apprentice,Lord of the rings
+91,USA,New York,Female,52,9729,CEO,The catcher in the rye
+92,USA,New York,Female,52,12020,CEO,The catcher in the rye
+93,USA,New York,Female,52,19289,CEO,The catcher in the rye
+94,USA,New York,Female,52,16077,CEO,Lord of the rings
+95,USA,New York,Female,52,12728,CEO,Lord of the rings
+96,USA,New York,Female,52,14778,CEO,Lord of the rings
+97,USA,San Francisco,Female,52,14139,CEO,Lord of the rings
+98,USA,San Francisco,Female,52,10586,CEO,Lord of the rings
+99,USA,San Francisco,Female,52,12504,CEO,Lord of the rings
+100,USA,San Francisco,Female,52,14126,CEO,The catcher in the rye
+101,USA,San Francisco,Female,52,21695,CEO,Lord of the rings
+102,USA,San Francisco,Female,52,15387,CEO,The catcher in the rye
+103,USA,San Francisco,Female,52,11491,CEO,The catcher in the rye
+104,USA,San Francisco,Female,52,8853,CEO,Lord of the rings
+119,USA,San Francisco,Female,27,3996,Junior_programmer,The catcher in the rye
+120,USA,San Francisco,Female,32,5508,Junior_programmer,Lord of the flies
+124,USA,San Francisco,Female,32,5007,Junior_programmer,Lord of the flies
+125,USA,San Francisco,Female,27,7079,Junior_programmer,Lord of the rings
+126,USA,San Francisco,Female,32,4480,Junior_programmer,Lord of the rings
+130,USA,San Francisco,Female,32,6185,Junior_programmer,The catcher in the rye
+131,USA,San Francisco,Female,27,4569,Junior_programmer,Lord of the rings
+132,USA,San Francisco,Female,32,3117,Junior_programmer,Lord of the rings
+136,USA,San Francisco,Female,32,6083,Junior_programmer,The catcher in the rye
+137,USA,San Francisco,Female,27,4703,Junior_programmer,Lord of the flies
+138,USA,San Francisco,Female,32,6158,Junior_programmer,The catcher in the rye
+142,USA,Detroit,Female,32,4004,Junior_programmer,Lord of the flies
+143,USA,Detroit,Female,27,4024,Junior_programmer,The catcher in the rye
+144,USA,Detroit,Female,32,3042,Junior_programmer,Lord of the flies
+148,USA,Detroit,Female,32,5695,Junior_programmer,The catcher in the rye
+149,USA,Detroit,Female,27,5250,Junior_programmer,Lord of the flies
+150,USA,Detroit,Female,32,6026,Junior_programmer,The catcher in the rye
+154,USA,Detroit,Female,32,6611,Junior_programmer,Lord of the flies
+155,USA,Detroit,Female,27,5840,Junior_programmer,Lord of the flies
+156,USA,Detroit,Female,32,7481,Junior_programmer,Lord of the rings
+160,USA,Detroit,Female,32,5124,Junior_programmer,Lord of the rings
+161,USA,Detroit,Female,27,6860,Junior_programmer,The catcher in the rye
+162,USA,Detroit,Female,32,3798,Junior_programmer,The catcher in the rye
+166,USA,Detroit,Female,32,5715,Junior_programmer,Lord of the rings
+167,USA,Detroit,Female,27,4902,Junior_programmer,Lord of the rings
+168,USA,Detroit,Female,32,5121,Junior_programmer,The catcher in the rye
+172,USA,Detroit,Female,32,4854,Junior_programmer,The catcher in the rye
+173,USA,Miami,Female,27,5391,Junior_programmer,Lord of the rings
+174,USA,Miami,Female,32,5371,Junior_programmer,Lord of the rings
+178,USA,Miami,Female,32,5802,Junior_programmer,The catcher in the rye
+179,USA,Miami,Female,27,5021,Junior_programmer,The catcher in the rye
+180,USA,Miami,Female,32,4524,Junior_programmer,The catcher in the rye
+184,USA,Miami,Female,32,5730,Junior_programmer,Lord of the rings
+185,USA,Miami,Female,27,3081,Junior_programmer,The catcher in the rye
+186,USA,Miami,Female,32,3239,Junior_programmer,The catcher in the rye
+190,USA,Miami,Female,32,3245,Junior_programmer,The catcher in the rye
+191,USA,Miami,Female,27,6734,Junior_programmer,Lord of the flies
+192,USA,Miami,Female,32,4537,Junior_programmer,The catcher in the rye
+196,USA,Miami,Female,32,3874,Junior_programmer,The catcher in the rye
+197,USA,Miami,Female,27,5112,Junior_programmer,Lord of the flies
+198,USA,Miami,Female,32,6566,Junior_programmer,Lord of the flies
+202,USA,Miami,Female,32,4655,Junior_programmer,Lord of the rings
+204,USA,Miami,Female,42,6562,Project_Manager,The catcher in the rye
+206,USA,Miami,Female,42,8564,Project_Manager,Lord of the rings
+208,USA,Miami,Female,42,7471,Project_Manager,Lord of the flies
+210,USA,Miami,Female,42,6811,Project_Manager,The catcher in the rye
+212,USA,Miami,Female,42,6433,Project_Manager,Lord of the flies
+214,USA,Miami,Female,42,6047,Project_Manager,Lord of the rings
+216,USA,Miami,Female,42,6561,Project_Manager,The catcher in the rye
+218,USA,Miami,Female,42,7481,Project_Manager,The catcher in the rye
+220,USA,Miami,Female,42,8468,Project_Manager,Lord of the rings
+222,USA,Miami,Female,42,9524,Project_Manager,Lord of the rings
+224,USA,Miami,Female,42,8785,Project_Manager,Lord of the flies
+226,USA,Dallas,Female,42,7099,Project_Manager,The catcher in the rye
+228,USA,Dallas,Female,42,8304,Project_Manager,Lord of the rings
+230,USA,Dallas,Female,42,7474,Project_Manager,Lord of the flies
+231,USA,Dallas,Male,32,8491,Senior_programmer,Lord of the flies
+232,USA,Dallas,Male,38,8165,Senior_programmer,Lord of the rings
+233,USA,Dallas,Male,38,10360,Senior_programmer,Lord of the rings
+234,USA,Dallas,Female,32,8403,Senior_programmer,The catcher in the rye
+235,USA,Dallas,Male,32,10297,Senior_programmer,Lord of the flies
+236,USA,Dallas,Male,32,8620,Senior_programmer,Lord of the rings
+237,USA,Dallas,Male,38,9632,Senior_programmer,The catcher in the rye
+238,USA,Dallas,Male,38,8020,Senior_programmer,Lord of the rings
+239,USA,Dallas,Female,32,9614,Senior_programmer,The catcher in the rye
+240,USA,Dallas,Male,32,8330,Senior_programmer,The catcher in the rye
+241,USA,Dallas,Male,32,10082,Senior_programmer,Lord of the rings
+242,USA,Dallas,Male,38,8042,Senior_programmer,The catcher in the rye
+243,USA,Dallas,Male,38,8161,Senior_programmer,Lord of the rings
+244,USA,Dallas,Female,32,10005,Senior_programmer,The catcher in the rye
+245,USA,Dallas,Male,32,8494,Senior_programmer,Lord of the flies
+246,USA,Dallas,Male,32,8259,Senior_programmer,The catcher in the rye
+247,USA,Dallas,Male,38,10131,Senior_programmer,Lord of the flies
+248,USA,Dallas,Male,38,8358,Senior_programmer,The catcher in the rye
+249,USA,Dallas,Female,32,9445,Senior_programmer,Lord of the rings
+250,USA,Dallas,Male,32,9916,Senior_programmer,The catcher in the rye
+251,USA,Dallas,Male,32,8365,Senior_programmer,The catcher in the rye
+252,USA,Dallas,Male,38,8198,Senior_programmer,Lord of the flies
+253,USA,Dallas,Male,38,8222,Senior_programmer,Lord of the rings
+254,USA,Dallas,Female,32,9045,Senior_programmer,Lord of the rings
+255,USA,Dallas,Male,32,8423,Senior_programmer,The catcher in the rye
+256,USA,Dallas,Male,32,10066,Senior_programmer,Lord of the flies
+257,USA,Dallas,Male,38,8507,Senior_programmer,The catcher in the rye
+258,USA,Dallas,Male,38,8045,Senior_programmer,The catcher in the rye
+259,USA,Dallas,Female,32,9157,Senior_programmer,Lord of the rings
+260,USA,Dallas,Male,32,8976,Senior_programmer,Lord of the flies
+261,USA,Dallas,Male,32,8341,Senior_programmer,Lord of the rings
+262,USA,Dallas,Male,38,9305,Senior_programmer,Lord of the flies
+263,USA,Dallas,Male,38,10263,Senior_programmer,Lord of the flies
+264,USA,Dallas,Female,32,10299,Senior_programmer,Lord of the rings
+265,USA,Dallas,Male,32,9030,Senior_programmer,The catcher in the rye
+266,USA,Dallas,Male,32,10022,Senior_programmer,Lord of the flies
+267,USA,Dallas,Male,38,10077,Senior_programmer,The catcher in the rye
+268,USA,Dallas,Male,38,9095,Senior_programmer,Lord of the rings
+269,USA,Dallas,Female,32,8465,Senior_programmer,Lord of the rings
+270,USA,Dallas,Male,32,9477,Senior_programmer,The catcher in the rye
+271,USA,Dallas,Male,32,10108,Senior_programmer,Lord of the rings
+272,USA,Dallas,Male,38,8903,Senior_programmer,The catcher in the rye
+273,USA,Dallas,Male,38,10048,Senior_programmer,Lord of the rings
+274,USA,Dallas,Female,32,10391,Senior_programmer,The catcher in the rye
+275,USA,Dallas,Male,32,8634,Senior_programmer,The catcher in the rye
+276,USA,Dallas,Male,32,8814,Senior_programmer,Lord of the flies
+277,USA,Dallas,Male,38,8832,Senior_programmer,Lord of the rings
+278,USA,Dallas,Male,38,10375,Senior_programmer,The catcher in the rye
+279,USA,Dallas,Female,32,9481,Senior_programmer,The catcher in the rye
+280,USA,Dallas,Male,32,9814,Senior_programmer,Lord of the flies
+281,USA,Dallas,Male,32,10175,Senior_programmer,Lord of the flies
+282,USA,Dallas,Male,38,8959,Senior_programmer,The catcher in the rye
+283,USA,Dallas,Male,38,9244,Senior_programmer,Lord of the rings
+284,USA,Dallas,Female,32,10104,Senior_programmer,Lord of the rings
+285,USA,Dallas,Male,32,10109,Senior_programmer,Lord of the flies
+286,USA,Dallas,Male,32,9944,Senior_programmer,The catcher in the rye
+287,USA,Dallas,Male,38,8862,Senior_programmer,Lord of the rings
+288,USA,Dallas,Male,38,9988,Senior_programmer,The catcher in the rye
+289,USA,Dallas,Female,32,8688,Senior_programmer,Lord of the rings
+290,USA,Dallas,Male,32,9833,Senior_programmer,The catcher in the rye
+291,USA,Dallas,Male,32,10414,Senior_programmer,Lord of the rings
+292,USA,Columbus,Male,38,9173,Senior_programmer,The catcher in the rye
+293,USA,Columbus,Male,38,9197,Senior_programmer,The catcher in the rye
+294,USA,Columbus,Female,32,8332,Senior_programmer,The catcher in the rye
+295,USA,Columbus,Male,32,9823,Senior_programmer,Lord of the rings
+296,USA,Columbus,Male,32,8260,Senior_programmer,The catcher in the rye
+297,USA,Columbus,Male,38,10174,Senior_programmer,Lord of the rings
+298,USA,Columbus,Male,38,10490,Senior_programmer,Lord of the rings
+299,USA,Columbus,Female,32,8968,Senior_programmer,The catcher in the rye
+300,USA,Columbus,Male,32,8635,Senior_programmer,The catcher in the rye

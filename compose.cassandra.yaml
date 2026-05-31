@@ -1,0 +1,11 @@
+services:
+  cassandra:
+    image: cassandra:latest
+    container_name: cass_pj
+    network_mode: host
+    restart: unless-stopped
+    volumes:
+      - cassandra_data:/var/lib/cassandra
+
+volumes:
+  cassandra_data:
